@@ -13,3 +13,4 @@ public interface Database {
 
     String read(String tableName, String objectKey) throws DatabaseException;
 }
+
